@@ -1,0 +1,6 @@
+[user]
+	name = astronexus
+	email = astronexus@foxmail.com
+[core]
+	editor = vim
+	ui = true
