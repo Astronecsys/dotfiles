@@ -140,3 +140,4 @@ export AM_HOME=/home/nexus/WorkSpace/ysyx-workbench/abstract-machine
 
 # neovim
 export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
