@@ -119,3 +119,4 @@ alias sl=ls
 PS1="> "
 export NEMU_HOME=/home/nexus/WorkSpace/ysyx-workbench/nemu
 export AM_HOME=/home/nexus/WorkSpace/ysyx-workbench/abstract-machine
+. "$HOME/.cargo/env"
